@@ -130,7 +130,7 @@ p {
   width: min(42vw, 420px);
   aspect-ratio: 1;
   opacity: 0.14;
-  background: url("assets/sony-spots.png") center / contain no-repeat;
+  background: url("images/sony-spots.png") center / contain no-repeat;
   pointer-events: none;
   animation: spots-pulse 6.5s ease-in-out infinite;
   transform-origin: center;
